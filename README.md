@@ -1,9 +1,12 @@
 # Risk-Assestment
 <h1>Description</h1>
-In this exercise, I engaged in a risk assessment exercise where I analyzed common vulnerabilities that pose a threat to business operations. Following this analysis, I made decisions on resource allocation based on the risk scores I assigned to each vulnerability.
+
+In this exercise, I will engage in a risk assessment exercise where I will analyze common vulnerabilities that pose a threat to business operations. Following this analysis, I will make decisions on resource allocation based on the risk scores I will assign to each vulnerability.
+
 It's important to remember that the primary goal of having a security plan is to be well-prepared for potential risks. Evaluating these risks is one of the initial steps outlined in the NIST Cybersecurity Framework (CSF), a voluntary framework that includes standards, guidelines, and best practices for managing cybersecurity risk. Risk assessments are a critical tool that security teams use to determine whether their security measures are effectively positioned to prevent cyberattacks and safeguard sensitive information.
 
 <h2>Scenario</h2>
+
 Review the scenario below.
 
 You've joined a new cybersecurity team at a commercial bank. The team is conducting a risk assessment of the bank's current operational environment. As part of the assessment, they are creating a risk register to help them focus on securing the most vulnerable risks.
@@ -14,7 +17,8 @@ Your supervisor asks you to evaluate a set of risks that the cybersecurity team 
 
 When conducting a risk assessment, it's important to consider the factors that could cause a security event. This often starts with understanding the operating environment.
 
-Operational environment:
+<h4> Operational environment:</h4>
+
 The bank is located in a coastal area with low crime rates. Many people and systems handle the bank's data—100 on-premise employees and 20 remote employees. The customer base of the bank includes 2,000 individual accounts and 200 commercial accounts. The bank's services are marketed by a professional sports team and ten local businesses in the community. There are strict financial regulations that require the bank to secure their data and funds, like having enough cash available each day to meet Federal Reserve requirements.
 
 
@@ -30,6 +34,7 @@ The bank is located in a coastal area with low crime rates. Many people and syst
   (Likelihood X Severity= Priority)
 
 <h3>Summary</h3>
+
 Following a comprehensive and meticulous examination, it has been ascertained that the probabilities associated with theft and supply chain disruptions are inherently low. This conclusion is rooted in the observation that prevailing crime rates exhibit a consistent pattern of being relatively minimal. Furthermore, the incidence of natural disasters, which possess the potential to impede the timely delivery of financial resources, is relatively infrequent, transpiring only at intermittent intervals over the course of several years.
 
 It is imperative, however, to underscore that while the aforementioned risks may be comparatively reduced, the ramifications of the compromise of crucial assets such as business email systems, user databases, and financial records cannot be understated. Such vulnerabilities, if exploited by malicious threat actors, can engender catastrophic consequences for the organization, including but not limited to reputational damage, financial losses, and operational disruptions. Therefore, a vigilant and proactive stance towards fortifying the security posture of these invaluable assets is of paramount importance.
